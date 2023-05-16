@@ -9,7 +9,7 @@ This Calculator created using pure html css javascript.
 Deployed Website URL:
 
 
- [https://sahil-sayyad.github.io/TinDog/](https://sahil-sayyad.github.io/Calculator/)
+ (https://sahil-sayyad.github.io/Calculator/)
 ![Settings Window](https://raw.github.com/Sahil-Sayyad/Calculator/main/web_Capture.jpeg)
 
 
